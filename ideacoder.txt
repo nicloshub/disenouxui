@@ -1,0 +1,7 @@
+Contexto:
+
+	Escuela de deportes náuticos. Actividades recretivas ligadas fuertemente a las condiciones climáticas.
+
+Problemática:
+
+	variedad climatica cmplica las reservas, hay que postergar y suspender muy seguido si se apaga el viento o si sopla mucho o si llueve, o mucha ola, etc. es dificil comunicarle estos a los clientes teniendo que enviar mensajes a cada uno especificamente. posiblidad de generar una nterfaz donde puedan estar al tanto de las condiciones actuales y que se puedan enterar facilmente si una reserva fue postergada o algo. que puedan ver las condiciones climaticas en vivo.
